@@ -79,4 +79,4 @@ src
 | ------------------------------------------ | ------ | ------- | ------------------------------------------- |
 | [joungeun](https://github.com/joungeun)    | 이종은 | BackEnd | InTech 백엔드를 담당하였습니다.             |
 | [lliimm0318](https://github.com/lliimm318)     | 임서영 | BackEnd | InTech 백엔드를 담당하였습니다.             |
-| [Goeun1001](https://github.com/Goeun)  | 정고은 | Client  | InTech iOS, macOS, watchOS를 담당하였습니다 |
+| [Goeun1001](https://github.com/Goeun1001)  | 정고은 | Client  | InTech iOS, macOS, watchOS를 담당하였습니다 |
